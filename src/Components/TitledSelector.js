@@ -7,6 +7,8 @@ const Select = styled.select`
     -webkit-appearance: none !important; 
     appearance: none !important;
     outline: none;
+    padding: 0px;
+    gap: 8px;
     border-radius: 24px;
     border: solid #E2E8F0 1px;
     background-color: #F8FAFC;

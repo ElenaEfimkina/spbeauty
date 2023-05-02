@@ -6,6 +6,8 @@ const Input = styled.input`
     border: solid #E2E8F0 1px;
     background-color: #F8FAFC;
     color: #0F172A;
+    padding: 0px;
+    gap: 8px;
     border-radius: 24px;
     &:hover {
         background-color: #D9E2EFB8;
